@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/new/prefix2">
+        <file>yesSound.jpg</file>
+        <file>noSound.jpg</file>
+        <file>last1.png</file>
+        <file>next1.png</file>
+        <file>shuffle1.png</file>
+        <file>off1.png</file>
+        <file>on1.png</file>
+        <file>sequential1.png</file>
+        <file>mainBackground.jpg</file>
+        <file>sound.jpg</file>
+        <file>allMusic.png</file>
+        <file>music.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>backgroung1.png</file>
+        <file>search.jpg</file>
+        <file>singer1.jpg</file>
+        <file>singer2.jpg</file>
+        <file>singer3.jpg</file>
+        <file>singer4.jpg</file>
+        <file>singer5.jpg</file>
+        <file>singer6.jpg</file>
+        <file>back.jpg</file>
+    </qresource>
+</RCC>
